@@ -1,8 +1,3 @@
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 <h1>Hi, I'm minisang!</h1>
 <p>
@@ -28,7 +23,6 @@
   <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=AutoHotkey&logoColor=white">
   <br>
 </div>
-<br />
 
 <h3>How to contect me ☎️</h3>
 
