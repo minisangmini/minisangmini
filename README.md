@@ -1,1 +1,1 @@
-<h2>Hi, I'm minisang!</h2>
+<h1>Hi, I'm minisang!</h1>
