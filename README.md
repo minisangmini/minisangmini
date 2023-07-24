@@ -18,6 +18,10 @@
 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" height="27">
+  <br>
+
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/AutoHotkey-334455?style=for-the-badge&logo=AutoHotkey&logoColor=white">
